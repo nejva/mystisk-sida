@@ -1,0 +1,38 @@
+---
+title: The First Post
+date: "2026-04-20"
+effort: "relativt mid"
+meme: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFwMWJrOHg1Zmp1OWJ6ZnExeGh1ZTJleDJoY3VvOW9oMHZoNjlzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1fMjj5j2Z7chq/giphy.gif"
+---
+# --> Vad har jag sysslat med de senaste lektionerna?
+* Har lyckats med att organisera HTML elementen som jag vill/behöver -> MEN ej anpassad för andra gränssnitt ... än (?)
+* Påbörjat en mängd olika funktioner till knappar för bland annat rename funktionen jag vill implementera...
+* Har även lekt runt lite med progressbar stylingen som har typ tusen olika bitar att styla ...
+
+<br>
+
+# --> Krångel?
+* Allmänt krångel med positionering och det där äckliga progress elementet
+* Allt hittils har löst sig, men har bara tagit lång tid vilket jag egentligen inte tror kommer att påverkar tidsplaneringen
+
+<br>
+
+# --> Lärdomar?
+* StackOverflow är nyckeln till ett gott liv och undvik progress bars i framtiden...
+
+<br>
+
+# --> Slutsats? Vad är gjort?
+* Grundlayout är klar
+* Sidan är fin och färgglad  
+
+<br>
+
+# --> Plan inför nästkommande lektioner?
+* Slutför renaming funktionen
+* Skapa en random timer som förstör figurens mood så att den kan må dåligt
+
+<br>
+
+<hr>
+<br>

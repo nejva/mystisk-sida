@@ -1,16 +1,26 @@
 ---
-title: "Seg start"
-date: "2026-04-14"
-effort: "låg"
-meme: "https://i.programmerhumor.io/2023/03/programmerhumor-io-programming-memes-b592bb1eb466dde.png"
+title: "first post...?"
+date: "2026-04-01"
+effort: "low/medium/high"
+meme: "https://miro.medium.com/1*CqPTchUH9z-c6wsMtcw6vw.png"
 ---
 
-# Trögt på hjärnkontoret
+<script lang="ts">
+	import CodeBlock from '$lib/components/code-block.svelte';
+</script>
 
-text om prokrastinering och de små framsteg sedan sist.
 
-<ol style="list-style-type:numeric; list-style-position:inside;">
-<li> Delmoment 3</li>
-<li> Delmoment 5 - Tog inspiration från ___ </li>
-<li> Moment 3 - omprioriterat - detta behövs för funktionalitet </li>
-</ol>
+# Hello 👋
+
+Welcome to my first devblog post!
+Each post is written in MDX format, which allows you to use Svelte components inside your posts - such as this CodeBlock. 
+<br>
+Each post needs to have a title, a date and a photo in the frontmatter, between the --- tags.
+
+
+<div class="p-10 space-y-4">
+	<CodeBlock code="npx sv create my-skeleton-app" lang="bash" />
+	<CodeBlock code="<div class=&quot;bg-green-500&quot;" lang="html" />
+	<CodeBlock code=".foobar &#123; background: green; &#125;" lang="css" />
+	<CodeBlock code="const foot = 'bar';" lang="js" />
+</div>

@@ -1,6 +1,6 @@
 <script lang="ts">
 	import './layout.css';
-import { resolve } from '$app/paths';
+	import { resolve } from '$app/paths';
 
 	const { children } = $props();
 	import { CalendarIcon, CircleUserIcon, MenuIcon, SearchIcon } from '@lucide/svelte';
@@ -14,7 +14,7 @@ import { resolve } from '$app/paths';
 		<AppBar.Lead>
 		</AppBar.Lead>
 		<AppBar.Headline class="flex justify-center">
-			<h1 class="h1"><a href={resolve("/devblog")}> No names dev blog</a></h1>
+			<h1 class="h1"><a href={resolve("/devblog")}> No dev blog ???</a></h1>
 		</AppBar.Headline>
 		<AppBar.Trail class="justify-end">
 			<a href={resolve("/")} class="btn-icon hover:preset-tonal"><CircleUserIcon class="size-6" /></a>
