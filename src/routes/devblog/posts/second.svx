@@ -1,0 +1,41 @@
+---
+title: The Second Post
+date: "2026-04-27"
+effort: "low-medium"
+meme: "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JqaDU3cHRyczQyb3hzaDJkYmMwdnZtbmR2dGt2ajMxZWI1Z2pxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgo4RIudsPTAGlRiIw/giphy.gif"
+---
+# --> Vad har jag sysslat med de senaste lektionerna?
+* Under de två senaste lektionerna har jag fixat en timer som slumpmässigt tar ett tal mellan ett span på 5000 till 10000 millisekunder(test) och använder den som tid till stop. 
+* Timern använder jag sedan för att kunna sänka värdet på progress bar elementen, alltså djurets moods, under en slumpmässig tid. 
+* Sedan har jag även börjat krångla med planen att funktionen ska kunna välja ett index från en lista av alla värden från progress elementet och hämta ut det värdet för att sedan kunna stoppa in i funktionen och sänka det värdet (work in progress...).
+* Renaming funktionen är i princip klar, valde att korta ner lite på mina planer och nöja mig med att namnet syns i fältet och kommer kunna användas för framtida pop-ups mm.
+
+<br>
+
+# --> Krångel?
+* Tog för lång tid för mig att läsa om hur man kan använda sig av olika timer funktioner som t.ex. setTimout, setInterval osv.
+
+<br>
+
+# --> Lärdomar?
+* Har typ fattat lite olika metoder på hur man kan skapa timers och använda sig av dem i Javascript.
+
+<br>
+
+# --> Slutsats? Vad är gjort?
+* Går att sänka ett enskilt mood åt gången, fortfarande krångel med resterande...
+
+<br>
+
+# --> Plan inför nästkommande lektioner?
+* Fortsätta krångla med resterande mood-values och förhoppningsvis lösa det.
+
+<br>
+
+<hr>
+<br>
+
+* https://developer.mozilla.org/en-US/docs/Web/API/Window/setTimeout
+* https://stackoverflow.com/questions/34656758/setinterval-with-random-time-in-javascript
+
+<br>
