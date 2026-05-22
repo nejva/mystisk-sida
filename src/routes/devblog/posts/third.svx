@@ -1,0 +1,41 @@
+---
+title: The Third Post
+date: "2026-05-22"
+effort: "hög(stressnivå)"
+meme: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNtMXY4bmlraHZheXUwZjd5d3J6YmFoOW9yeXh2eWUyODJqbW1ocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Nle87WgNwDbsj3P4Y/giphy.gif"
+---
+# --> Vad har jag sysslat med de senaste lektionerna?
+* De senaste lektionerna har jag pysslat med mood status barsen, hade lite problem med det tidigare, men har lyckats lösa problemen.
+* Har även lagt in lite bilder och ikoner till knappar osv. 
+
+<br>
+
+# --> Krångel?
+* Funktionen som slumpar ett mood/behov och tiden var svår att göra rätt, men visade sig att jag bara hade slarvat lite så tankarna var hyfsat rätta iallafall.
+
+<br>
+
+# --> Lärdomar?
+* Inget specifikt, förhoppningsvis har jag blivit lite bättre på att lösa buggar och mina egna slarvfel. 
+
+<br>
+
+# --> Slutsats? Vad är gjort?
+* • Alla mood kan sänkas slumpmässigt efter en slumpad tid.
+* • Figuren har nu en bakgrund
+* • Ikoner för knappar, gränssnittet ser lite bättre ut.
+
+<br>
+
+# --> Plan inför nästkommande lektioner?
+* • Byta ut placeholder figuren till ett animerat djur. 
+* • Fixa mer dynamiska 'animationer' för figuren när man boostar dens mood.
+* • Bonding systemet.
+* • Påbörja startskärmen.
+
+<br>
+
+<hr>
+<br>
+
+<br>
