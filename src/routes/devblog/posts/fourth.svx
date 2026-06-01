@@ -40,6 +40,6 @@ meme: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXcyZmpucDM4a2lzcjl4M2c
 <hr>
 <br>
 
-* https://www.youtube.com/watch?v=ekI7vjkFrGA <-- Fantastisk tutorial för spritesheets
+* (https://www.youtube.com/watch?v=ekI7vjkFrGA)[ <-- Fantastisk tutorial för spritesheets]
 
 <br>
