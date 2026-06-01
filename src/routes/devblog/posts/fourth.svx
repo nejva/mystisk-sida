@@ -1,0 +1,45 @@
+---
+title: The Fourth Post
+date: "2026-05-31"
+effort: "hög"
+meme: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXcyZmpucDM4a2lzcjl4M2cya3l3YXcwNXUzNW5hNTZtNXYweml3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n5iPVLeA1fvb0IYU5W/giphy.gif"
+---
+# --> Vad har jag sysslat med de senaste lektionerna?
+* De sista lektionerna har jag pysslat med spritesheet animation, implementerat bonding-poäng och gjort lite småtweaks till hemsidan.
+
+<br>
+
+# --> Krångel?
+* Jag har haft lite krångel med användningen av spritesheets i VS Code. 
+* Hade inga problem alls när vi använde godot, men hittade först ingen bra förklaring eller tutorial till VS.
+
+<br>
+
+# --> Lärdomar?
+* Har nu förhoppningsvis fått en bättre förståelse för hur man kan animera med hjälp av spritesheets. 
+* + använda klasser för att ge HTML element olika attribut inom funktioner osv.
+
+<br>
+
+# --> Slutsats? Vad är gjort?
+* • Placeholder sprite är utbytt till en hund med animationer för att gå/äta/sitta.
+* • Fler miljöer för rummen, med matchande mindre action-knappar för djurens behov.
+* • Poängsystemet är klart, spelaren kommer nu tjäna bondingpoäng om den kan hålla djuret glad i 2 minuter sträck.
+* • Ny namnskylt ovanför djurets huvud.
+* • Startmenyn är smått påbörjad med oklart om jag kommer ha med i slutprojektet.
+
+<br>
+
+# --> Plan inför nästkommande lektioner/innan deadline?
+* • Buggfix
+* • Ljudeffekter
+* + ev. en liten pop-up text som signalerar när djuret mår dåligt.
+
+<br>
+
+<hr>
+<br>
+
+* https://www.youtube.com/watch?v=ekI7vjkFrGA <-- Fantastisk tutorial för spritesheets
+
+<br>
